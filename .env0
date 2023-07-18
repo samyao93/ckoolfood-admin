@@ -1,0 +1,37 @@
+APP_NAME=stackfood1687957476APP_ENV=live
+                    APP_KEY=base64:Js6dEkFG6cXhWv01sIxeRnR6A9Y7mBdgxTRLXJvkx+A=
+                    APP_DEBUG=false
+                    APP_INSTALL=true
+                    APP_LOG_LEVEL=debug
+                    APP_MODE=live
+                    APP_URL=https://ckoolfood.com
+
+                    DB_CONNECTION=mysql
+                    DB_HOST=bi3g2.myd.infomaniak.com
+                    DB_PORT=3306
+                    DB_DATABASE=bi3g2_ckoolfood
+                    DB_USERNAME=bi3g2_samyone
+                    DB_PASSWORD=Annesar26@@
+
+                    BROADCAST_DRIVER=log
+                    CACHE_DRIVER=file
+                    SESSION_DRIVER=file
+                    SESSION_LIFETIME=120
+                    QUEUE_DRIVER=sync
+
+                    REDIS_HOST=127.0.0.1
+                    REDIS_PASSWORD=null
+                    REDIS_PORT=6379
+
+                    PUSHER_APP_ID=
+                    PUSHER_APP_KEY=
+                    PUSHER_APP_SECRET=
+                    PUSHER_APP_CLUSTER=mt1
+
+                    PURCHASE_CODE=02fc2605-1820-4643-b104-d8fe556c205f
+                    BUYER_USERNAME=samyao93
+                    SOFTWARE_ID=MzM1NzE3NTA=
+
+                    SOFTWARE_VERSION=7.0
+                    REACT_APP_KEY=43218516
+                    

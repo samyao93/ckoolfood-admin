@@ -1,2 +1,0 @@
-# ckoolfood
-Anti gaspi admin
